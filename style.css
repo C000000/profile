@@ -2,7 +2,7 @@
 
 body{
   background: #2E2E2E;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Slabo 27px', serif;
   font-weight: 300;
   color:  #2E2E2E;
   font-size: 15px;
@@ -10,22 +10,23 @@ body{
 }
 
 h1, h2, h3{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 
 h1{
   color: #1D9B71;
-  font-size: 22px;
+  font-size: 30px;
+  letter-spacing: 4px;
 }
 
 h2{
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 20px;
+  font-weight: 500;
 }
 
 h3{
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 a{
